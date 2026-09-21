@@ -1,15 +1,22 @@
-# Web Coding Showcase
+# Web-foundations
 
-A collection of small web projects built with **HTML**, **CSS**, and **React**.  
-This repository serves as a showcase of coding experiments and layout techniques.
+HTML and CSS pages: layout, forms, tables, and semantic markup.
 
-## Current Project: Brown Bear Overview
+No framework here — plain files in `html/`.
 
-A simple webpage about **Brown Bears**, featuring:
+## Pages
 
-- Structured content with headings, paragraphs, and lists  
-- Image and video embedding  
-- Semantic HTML for clear organization  
+| File | What it is |
+|------|-------------|
+| `brown-bear-info-page.html` | Content page with headings, lists, image and video |
+| `Semantic_html.html` | Semantic elements |
+| `forms_with_html.html` | Form controls |
+| `Table_with_html.html` / `project_table.html` | Tables |
+| `fashion_blog.html` | Simple blog layout |
+| `Guess_the_right_number.html` | Small interactive page |
 
-Future projects will include more HTML/CSS layouts and React components.
+Open any file in a browser:
 
+```bash
+open html/index.html
+```
